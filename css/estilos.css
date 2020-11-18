@@ -44,7 +44,12 @@ h2 {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 50vh;
+}
+@media (min-width: 768px) {
+    .header {
+        height: 70vh;
+    }
 }
 .contenedor-header {
     height: 100%;
