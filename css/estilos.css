@@ -39,7 +39,7 @@ h2 {
 
 /* Header */
 .header {
-    background-image: url("/img/LR-BlogBanner.jpg");
+    background-image: url("blogLauraRibas/img/LR-BlogBanner.jpg");
     background-color: #EFECE8;
     background-size: cover;
     background-position: center center;
